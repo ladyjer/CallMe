@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="3.0" group="content" method="upgrade">
+    <name>Content - callme</name>
+    <creationDate>04-Dec-2014</creationDate>
+    <author>Mariella</author>
+    <authorEmail>mariella.colombo@ladyj.eu</authorEmail>
+    <authorUrl>www.ladyj.eu</authorUrl>
+    <copyright/>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <version>1.0.0</version>
+    <description>A Joomla! Plugin to convert telephone numbers in content to click-to-call links.</description>
+    <files folder="site">
+        <filename plugin="callme">callme.php</filename>
+        <filename>index.html</filename>
+    </files>
+</extension>
